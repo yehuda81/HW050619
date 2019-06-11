@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\HW0506_09\bin\Debug\HW0506_09.exe.config
+C:\Users\Admin\source\repos\HW0506_09\bin\Debug\HW0506_09.exe
+C:\Users\Admin\source\repos\HW0506_09\bin\Debug\HW0506_09.pdb
+C:\Users\Admin\source\repos\HW0506_09\obj\Debug\HW0506_09.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HW0506_09\obj\Debug\HW0506_09.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HW0506_09\obj\Debug\HW0506_09.exe
+C:\Users\Admin\source\repos\HW0506_09\obj\Debug\HW0506_09.pdb
